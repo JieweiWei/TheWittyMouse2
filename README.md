@@ -19,20 +19,20 @@
 目录说明
 --
 
-.
-├── Classes     # 项目代码 
-├── Resources   # 项目使用资源 
-│   ├── data    # 游戏运行使用数据文件 
-│   ├── effect  # 游戏效果文件 
-│   ├── fonts   # 游戏使用字体 
-│   ├── i18n    # 国际化支持 
-│   ├── images  # 图像资源 
-│   ├── res     # 按钮资源 
-│   └── sound   # 音效资源 
-├── app         # 游戏安装包 
-├── cocosstudio # cocosstudio设计原文件 
-├── doc	        # 项目文档 
-└── proj.win32  # win32项目解决方案 
+>.
+>>Classes     # 项目代码 
+>>Resources   # 项目使用资源 
+>>>data    # 游戏运行使用数据文件 
+>>>effect  # 游戏效果文件 
+>>>fonts   # 游戏使用字体 
+>>>i18n    # 国际化支持 
+>>>images  # 图像资源 
+>>>res     # 按钮资源 
+>>>sound   # 音效资源 
+>>app         # 游戏安装包 
+>>cocosstudio # cocosstudio设计原文件 
+>>doc	        # 项目文档 
+>>proj.win32  # win32项目解决方案 
 
 文档说明
 --
