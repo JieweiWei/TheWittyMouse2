@@ -31,7 +31,7 @@
 	│   └── sound   # 音效资源 
 	├── app         # 游戏安装包 
 	├── cocosstudio # cocosstudio设计原文件 
-	├── doc	        # 项目文档 
+	├── doc         # 项目文档 
 	└── proj.win32  # win32项目解决方案 
 
 文档说明
