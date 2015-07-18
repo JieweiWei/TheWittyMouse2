@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>weather0</key>
+        <string>多云</string>
+        <key>date</key>
+        <string>2015-03-31</string>
+        <key>weather1</key>
+        <string>多云</string>
+        <key>weather2</key>
+        <string>多云</string>
+        <key>weather3</key>
+        <string>多云转阴</string>
+    </dict>
+</plist>

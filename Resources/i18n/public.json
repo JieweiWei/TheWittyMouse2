@@ -1,0 +1,19 @@
+{
+	"loadingTitle" : {"CN": "机智的小不点", "EN" : "The Witty Mouse"},
+	"singleMode" : {"CN" : "开始游戏", "EN" : "begin"},
+	"battle" : {"CN" : "对战模式", "EN" : "battle"},
+	"developerTitle" : {"CN" : "开发团队", "EN" : "developer"},
+	"helpTitle" : {"CN" : "帮助", "EN" : "help"},
+	"settingTitle" : {"CN" : "设置", "EN" : "setting"},
+	"infoTitle" : {"CN" : "智商", "EN" : "IQ"},
+	"developer" : {
+		"CN" : ["魏杰伟 — 程序开发", "谢志旺 — 程序开发", "梁舒婷 — 游戏美工", "周敏 — 项目管理"],
+		"EN" : ["Jiewei Wei - Program Development", "Zhiwang Xie - Program Development", "Shuting Liang - art designer", "Min Zhou - Project management"]
+	},
+	"musicTitle" : {"CN" : "游戏音乐", "EN" : "music"},
+	"effectTitle" : {"CN" : "游戏音效", "EN" : "sound"},
+	"languageTitle" : {"CN" : "游戏语言", "EN" : "language"},
+	"youWin" : {"CN" : "老鼠已经累到", "EN" : "You Win"},
+	"youLose" : {"CN" : "老鼠成功到达", "EN" : "You Lose"},
+	"pause" : {"CN" : "暂停", "EN" : "Pause"}
+}
